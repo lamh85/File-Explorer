@@ -1,0 +1,12 @@
+{
+  "name": "FileExplorer",
+  "displayName": "FileExplorer",
+  "expo": {
+    "name": "FileExplorer",
+    "slug": "FileExplorer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
